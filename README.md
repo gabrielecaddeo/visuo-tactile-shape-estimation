@@ -19,6 +19,10 @@ Moreover, I left all the necessary components to be mounted for the robot setup.
 The following video shows where you can find everything.
 
 
+https://github.com/gabrielecaddeo/visuo-tactile-shape-estimation/assets/49904924/41cc02bf-0797-47e5-aa65-adde90a5e635
+
+
+
 
 
 ## Code
